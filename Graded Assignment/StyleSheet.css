@@ -1,0 +1,17 @@
+.bd{
+	background-color:#a3d6b1;
+	border: 2px solid;
+	padding-left: 25px;
+}
+.head{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.click{
+	font-size: 25px;
+	height: 45px; 
+	width: 180px;
+}
+.ptl{
+	font-size:22px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
